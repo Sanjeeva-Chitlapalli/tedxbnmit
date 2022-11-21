@@ -33,7 +33,7 @@ $(document).ready(function () {
 
     // typing animation script
     var typed = new Typed(".typing",{
-        strings: ["Rise from the ashes","Like never before","Welcomes you to Earth 2047"],
+        strings: ["In quest of an answer","In the flow of Life","The truth about simplicity","Dreams Unlocked"],
         typeSpeed: 100,
         backSpeed: 80,
         loop: true,
